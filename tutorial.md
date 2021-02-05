@@ -11,7 +11,10 @@
 ## Google Cloud Shell とは
 
 Google Cloud Shellはブラウザ上から Google Cloud Platform をCLIで管理するためのターミナルです。  
-Debianの上に、Google Cloudを扱うためのいくつかのツールがインストールされています。  詳細は [Google Cloud のドキュメント](https://cloud.google.com/shell/?hl=ja)を参照してください。
+Debianの上に、Google Cloudを扱うためのいくつかのツールがインストールされています。  
+そこそこのマシンリソースにDocker、kubectl等のツール、さらには様々な開発言語、IDEも付属しているので、ちょっとした検証環境や開発環境として使うことができます。
+
+詳細は [Google Cloud のドキュメント](https://cloud.google.com/shell/?hl=ja)を参照してください。
 
 ## [kind](https://kind.sigs.k8s.io/)とは
 
