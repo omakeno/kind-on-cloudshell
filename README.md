@@ -1,2 +1,3 @@
 # kind-on-cloudshell
-kubernetes on docker on google cloud shell
+
+https://ssh.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/omakeno/kind-on-cloudshell&cloudshell_tutorial=tutorial.md
